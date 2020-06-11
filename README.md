@@ -97,7 +97,7 @@ New release '18.04.4 LTS' available.
 Run 'do-release-upgrade' to upgrade to it.</pre>
 ```
 
-## El lliurament l'hauràs de fer per correu electrònic, enviant un correu electrònic a la meva adreça joanpardo@ginebro.cat, amb la teva versió del fitxer ***```00-header```***, adjunt i a l'assumpte cal que aparegui el següent text ***[MP04_UF02]*** amb els claudàtors inclosos.
+## El lliurament l'hauràs de fer per correu electrònic, enviant un correu electrònic a la meva adreça joanpardo@ginebro.cat, amb la teva versió del fitxer ***```00-header```*** com a fitxer adjunt. Cal que a l'assumpte aparegui el següent text ***[MP04_UF02]*** amb els claudàtors inclosos.
 
-I per acabar de avaluar la pràctica serà necessari que m'ensenyeu que funciona fent una connexió remota.
+I per acabar d'avaluar la pràctica serà necessari que m'ensenyeu que funciona fent una connexió remota.
 
