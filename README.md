@@ -7,6 +7,9 @@ curs d'enguany, cal que entreguis i aprovis la següent activitat.
 
 Si seguiu l'activiat que es va realitzar a classe
 [personalitzar-el-missatge-de-benvinguda-a-linux](http://joanpardo.home.blog/smx2/com-personalitzar-el-missatge-de-benvinguda-a-linux/)
+> Per obrir a una finestra nova, clica sobre l'enllaç amb el botó dret del ratolí i pitja "**obrir a una nova finestra**"
+
+Recordeu que la ruta del fitxer ***```00-header```*** és ***```/etc/update-motd.d/00-header```***
 
 Veureu que el contingut del fitxer&nbsp; ***```00-header```*** , que per defecte és el següent:
 
@@ -66,8 +69,6 @@ el mateix text personalitzat però en català en lloc de que aparegui en anglès
 
 Per tant cal que modifiqueu el contingut del fitxer&nbsp; ***```00-header```*** substituint
 el ***Welcome to*** per **Benvinguts a**
-
-Recordeu que la ruta del fitxer ***```00-header```*** és ***```/etc/update-motd.d/00-header```***
 
 Caldrà que em feu arribar el fitxer ***```00-header```*** modificat per correu, i un cop tingui lLa correcció,
 us demanaré que fem una connexió remota per veure que us funciona en el vostre servidor.
